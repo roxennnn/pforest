@@ -1,5 +1,7 @@
 # ***pForest: In-Network Inference with Random Forests***
 
+University project for the **Advanced Topics in Communication Networks** course at the ETH Zurich. This project is a basic implementation of the *pForest: In-Network Inference with Random Forests* paper.
+
 ### Authors
 
     * Adrien Prost (aprost@student.ethz.ch)
